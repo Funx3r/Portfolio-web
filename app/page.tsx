@@ -245,7 +245,7 @@ export default function Home() {
             <div className="brutalist-card bg-paper-white group overflow-hidden">
               <div className="h-64 bg-surface-container relative overflow-hidden">
                 <video
-                  src="/turbine.mp4"
+                  src="/Turbine.mp4"
                   autoPlay
                   loop
                   muted
