@@ -22,7 +22,7 @@ export default function Home() {
               <span className="material-symbols-outlined">call</span> +62 878-7415-4076
             </div>
             <div className="flex items-center gap-2 font-body text-mono-label bg-paper-white border-2 border-ink-black px-4 py-2 cursor-default">
-              <span className="material-symbols-outlined">location_on</span> Jakarta, Indonesia
+              <span className="material-symbols-outlined">location_on</span> Depok, Indonesia
             </div>
             <div className="flex items-center gap-2 font-body text-mono-label bg-paper-white border-2 border-ink-black px-4 py-2">
               <span className="material-symbols-outlined">mail</span> rangga.fabiano.fr@gmail.com
@@ -275,7 +275,7 @@ export default function Home() {
                     LSTM
                   </span>
                   <span className="brutalist-tag bg-secondary-fixed px-3 py-1 font-body text-mono-label">
-                    Flask
+                    Next.js
                   </span>
                 </div>
               </div>
