@@ -403,7 +403,10 @@ export default function Home() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-gutter">
             <div className="brutalist-card bg-paper-white p-8 -rotate-1">
-              <div className="text-5xl mb-4">🎬</div>
+              <svg className="w-7 h-7" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" fill="none">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="M170 42 22 124v14c0 6.627 5.373 12 12 12h78c6.627 0 12-5.373 12-12v-9.5"/>
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="M170 150 22 68V54c0-6.627 5.373-12 12-12h78c6.627 0 12 5.373 12 12v9.5"/>
+              </svg>
               <h3 className="font-display text-headline-md uppercase mb-2">
                 Cinematic Video Editing
               </h3>
